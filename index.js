@@ -24,3 +24,4 @@ function   addNewLiOnClick() {
     document.querySelector('input').value = "";
   })
 }
+
